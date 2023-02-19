@@ -1,53 +1,5 @@
 Hi there, I'm <h1>Fathullah Munadi</h1> 👋
     I am a student majoring in Computer Science, currently 19 years old and passionate about web programming. I enjoy learning how to create modern and visually appealing websites using the latest technology. I am always eager to continue learning and improving my skills in this field, and I hope to produce web projects that can help and inspire others.<br>
-    <h1>Skills</h1><br>
-       <div class="display:flex,justify-content:center,align-items:center">
-        <div>
-      <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-      <p>HTML: 80%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-      <p>CSS: 70%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
-      <p>Bootstrap: 70%</p>
-    </div>
-    <div>
-        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_tailwind_icon_130128.png" width="50"/>
-        <p>Tailwind: 45%</p>
-      </div>
-    <div>
-      <img src="https://bulma.io/assets/Bulma%20Icon.png" width="30"/>
-      <p>Bulma: 65%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-      <p>JavaScript: 65%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
-      <p>PHP Native: 70%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/officel/48/000000/react.png"/>
-      <p>ReactJS: 45%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-      <p>NodeJS: 45%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/color/48/000000/express.png"/>
-      <p>Express: 45%</p>
-    </div>
-    <div>
-      <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-      <p>MySQL: 75%</p>
-    </div>
-    </div>
-    <br>
     <br>
     I possess skills in several web technologies, including HTML, CSS, and JavaScript, which are the foundation of modern web development. I also have knowledge in web development using PHP Native and can create database connections using MySQL.<br>
     In addition, I have experience using CSS frameworks such as Bootstrap and Bulma to streamline web development and create responsive layouts. I am also currently learning Tailwind to expand my skillset in this area.<br><br>
