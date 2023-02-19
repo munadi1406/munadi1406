@@ -28,7 +28,8 @@ Email: [fathullahmunadi1406@gmail.com]<br>
 
 
 📈 Github Stats
-https://github-readme-stats.vercel.app/api?username=munadi1406<br>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=munadi1406&show_icons=true&theme=radical)<br>
+
 
 
 🎉 Thanks for stopping by!
