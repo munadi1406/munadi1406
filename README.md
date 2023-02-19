@@ -1,4 +1,4 @@
-![visitors](https://img.shields.io/github/watchers/munadi106/munadi1406?style=social)
+![visitors](https://img.shields.io/github/watchers/munadi1406/munadi1406?style=social)
 
 Hi there, I'm <h1>Fathullah Munadi</h1> 👋
     I am a student majoring in Computer Science, currently 19 years old and passionate about web programming. I enjoy learning how to create modern and visually appealing websites using the latest technology. I am always eager to continue learning and improving my skills in this field, and I hope to produce web projects that can help and inspire others.<br>
