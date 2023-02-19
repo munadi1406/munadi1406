@@ -8,7 +8,7 @@ Twitter: [Your Twitter]
 Personal Website: [Your Website]
 
 📈 Github Stats
-[Your Github stats](Link to your Github profile)
+[Your Github stats](https://github.com/munadi1406)
 
 
 🎉 Thanks for stopping by!
