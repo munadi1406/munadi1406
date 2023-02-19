@@ -1,7 +1,7 @@
 Hi there, I'm <h1>Fathullah Munadi</h1> 👋
 I am a student majoring in Computer Science, currently 19 years old and passionate about web programming. I enjoy learning how to create modern and visually appealing websites using the latest technology. I am always eager to continue learning and improving my skills in this field, and I hope to produce web projects that can help and inspire others.<br>
 
-Skills<br>
+<h1>Skills</h1><br>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> HTML: 80%<br>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/> CSS: 70%<br>
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> Bootstrap: 70%<br>
@@ -27,7 +27,7 @@ Email: [fathullahmunadi1406@gmail.com]<br>
 
 
 
-📈 Github Stats
+📈 Github Stats<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munadi1406&show_icons=true&theme=radical)<br>
 
 
