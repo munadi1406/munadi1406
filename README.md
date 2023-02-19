@@ -15,7 +15,7 @@ I am a student majoring in Computer Science, currently 19 years old and passiona
   <p>Bootstrap: 70%</p>
 </div>
 <div>
-  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png"/>
+  <img src="https://heroicons.com/"/>
   <p>Tailwind: 45%</p>
 </div>
 <div>
