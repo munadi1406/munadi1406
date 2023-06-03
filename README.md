@@ -12,8 +12,6 @@ Hi there, I'm <h1>Fathullah Munadi</h1> 👋
     #📫 How to reach me:
     Email: [fathullahmunadi1406@gmail.com]<br>
     <br>
-    📈 Github Stats<br>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=munadi1406&show_icons=true&theme=radical)<br>
     <br>
     🎉 Thanks for stopping by!
     Thanks for visiting my profile, and feel free to reach out if you have any questions or just want to say hello!
