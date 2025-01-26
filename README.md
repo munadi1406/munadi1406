@@ -1,7 +1,7 @@
 
 
 Hi there, I'm <h1>Fathullah Munadi</h1> 👋
-    I am a student majoring in Computer Science, currently 19 years old and passionate about web programming. I enjoy learning how to create modern and visually appealing websites using the latest technology. I am always eager to continue learning and improving my skills in this field, and I hope to produce web projects that can help and inspire others.<br>
+    I am a student majoring in Computer Science, currently 21 years old and passionate about web programming. I enjoy learning how to create modern and visually appealing websites using the latest technology. I am always eager to continue learning and improving my skills in this field, and I hope to produce web projects that can help and inspire others.<br>
     <br>
     I possess skills in several web technologies, including HTML, CSS, and JavaScript, which are the foundation of modern web development. I also have knowledge in web development using PHP Native and can create database connections using MySQL.<br>
     In addition, I have experience using CSS frameworks such as Bootstrap and Bulma to streamline web development and create responsive layouts. I am also currently learning Tailwind to expand my skillset in this area.<br><br>
